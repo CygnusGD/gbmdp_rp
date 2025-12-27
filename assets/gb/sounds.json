@@ -1,0 +1,35 @@
+{
+    "music_disc.classic_j_dies_and_goes_to_hell_part_1": {"sounds": [{"name": "gb:records/classic_j_dies_and_goes_to_hell_part_1","stream": true}]},
+    "music_disc.bedroom_community": {"sounds": [{"name": "gb:records/bedroom_community","stream": true}]},
+    "music_disc.forever": {"sounds": [{"name": "gb:records/forever","stream": true}]},
+    "music_disc.bone_skull": {"sounds": [{"name": "gb:records/bone_skull","stream": true}]},
+    "music_disc.neon_glow": {"sounds": [{"name": "gb:records/neon_glow","stream": true}]},
+    "music_disc.cold_weather": {"sounds": [{"name": "gb:records/cold_weather","stream": true}]},
+    "music_disc.calico": {"sounds": [{"name": "gb:records/calico","stream": true}]},
+    "music_disc.glass_beach": {"sounds": [{"name": "gb:records/glass_beach","stream": true}]},
+    "music_disc.blood_rivers": {"sounds": [{"name": "gb:records/blood_rivers","stream": true}]},
+    "music_disc.dallas": {"sounds": [{"name": "gb:records/dallas","stream": true}]},
+    "music_disc.rat_castle": {"sounds": [{"name": "gb:records/rat_castle","stream": true}]},
+    "music_disc.planetarium": {"sounds": [{"name": "gb:records/planetarium","stream": true}]},
+    "music_disc.soft": {"sounds": [{"name": "gb:records/soft","stream": true}]},
+    "music_disc.yoshis_island": {"sounds": [{"name": "gb:records/yoshis_island","stream": true}]},
+    "music_disc.orchids": {"sounds": [{"name": "gb:records/orchids","stream": true}]},
+
+    "music_disc.coelacanth": {"sounds": [{"name": "gb:records/coelacanth","stream": true}]},
+    "music_disc.motions": {"sounds": [{"name": "gb:records/motions","stream": true}]},
+    "music_disc.slip_under_the_door": {"sounds": [{"name": "gb:records/slip_under_the_door","stream": true}]},
+    "music_disc.guitar_song": {"sounds": [{"name": "gb:records/guitar_song","stream": true}]},
+    "music_disc.rare_animal": {"sounds": [{"name": "gb:records/rare_animal","stream": true}]},
+    "music_disc.cul_de_sac": {"sounds": [{"name": "gb:records/cul_de_sac","stream": true}]},
+    "music_disc.whalefall": {"sounds": [{"name": "gb:records/whalefall","stream": true}]},
+    "music_disc.puppy": {"sounds": [{"name": "gb:records/puppy","stream": true}]},
+    "music_disc.the_killer": {"sounds": [{"name": "gb:records/the_killer","stream": true}]},
+    "music_disc.the_cia": {"sounds": [{"name": "gb:records/the_cia","stream": true}]},
+    "music_disc.200": {"sounds": [{"name": "gb:records/200","stream": true}]},
+    "music_disc.commatose": {"sounds": [{"name": "gb:records/commatose","stream": true}]},
+    "music_disc.abyss_angel": {"sounds": [{"name": "gb:records/abyss_angel","stream": true}]},
+
+    "music_disc.beach_life_in_death": {"sounds": [{"name": "gb:records/beach_life_in_death","stream": true}]},
+
+    "music_disc.welcome_to_the_black_parade": {"sounds": [{"name": "gb:records/welcome_to_the_black_parade","stream": true}]}
+}
